@@ -1,0 +1,10 @@
+Comandos do prompt
+
+mkdir-Cria uma pasta
+cd(change directory)-navega entre as pastas
+..-Sobe a pasta da hierarquia
+.-mesma pasta da hierarquia
+help<nome do comando>-lista as ajudas do comando
+cls-limpa a tela
+>-redireciona a saida de um comando
+move<arquivo><destino>-Move o arquivo
